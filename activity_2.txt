@@ -1,0 +1,15 @@
+List of Git commands
+ 1. git config --global user.name ""
+       - sets your username for your Git repositories
+
+ 2. git config --global user.email ""
+       - sets your email address for your Git repositories
+
+ 3. cd <repository>
+       - opens the Git repository locally
+
+ 4. ls
+       - lists local files inside the opened repository
+
+ 5. git add "<filename>"
+       - adds the file to the repository
